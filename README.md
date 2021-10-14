@@ -1,5 +1,5 @@
 # UltrasonicSensorGlasses-for-blind-people
-This is a product / project developed by a team of Five Members including Mithilesh Ghadge for the Engineering Clinics at Vellore Institute Of Technology
+This is a product / project developed by a team of Five Members including Mithilesh Ghadge for the Engineering Clinics at Vellore Institute Of Technology.
 An Arduino Project which made use of Arduino language.
 The Hardware components included Arduino, Ultrasonic Sensor and a buzzer. Jumper wires were required for connections. A Battery is also required to power the Arduino.
 
