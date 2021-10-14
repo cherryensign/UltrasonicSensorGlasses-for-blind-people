@@ -12,3 +12,5 @@ Arduino Uno - 300rs-500rs
 Ultrasonic Distance Sensor Module - HC-SR04 - 60rs
 Buzzer - 20rs
 Jumper wires, Battery 9V - 50rs-100rs
+Plastic glasses - 100rs
+cap (optional for stable and comfort design) - 100rs
