@@ -14,3 +14,8 @@ Buzzer - 20rs
 Jumper wires, Battery 9V - 50rs-100rs
 Plastic glasses - 100rs
 cap (optional for stable and comfort design) - 100rs
+
+- 👋 Hi, I’m Mithilesh Ghadge
+- Passionate Coder from India
+- Instagram : https://www.instagram.com/mithileshghadge/
+- Facebook : https://www.facebook.com/mitilesh.ghadge
